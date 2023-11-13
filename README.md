@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://twitter.com/naeemotion_" target="blank"><img src="https://img.shields.io/twitter/follow/naeemotion?logo=twitter&style=for-the-badge" alt="naeemotion" /></a> </p>
 
 ## 🚀 About Me
-I'm a Frontend Developer, and I'm very passionate and dedicated to my work. With 2 years experience of javaScript, I have acquired the skills and knowledge necessary to make your project a success.
+ <!-- I'm a Frontend Developer, and I'm very passionate and dedicated to my work. With 2 years experience of javaScript, I have acquired the skills and knowledge necessary to make your project a success. -->
+ learning
  
 ## 👨‍💻 Skills & Experiance: 
 ✅ React <br> 
